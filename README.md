@@ -53,8 +53,6 @@ Or just install expo go app on your mobilea and click on the link -  https://exp
 This app uses the OMDb API to fetch movie data.
 To get started, obtain a free API key and add it to your environment file.
 
-const API_KEY = 'your_omdb_api_key';
-const BASE_URL = `https://www.omdbapi.com/?apikey=${API_KEY}`;
 
 🎯 Future Enhancements
 
